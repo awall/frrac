@@ -1,0 +1,4 @@
+[package]
+name = "frrac"
+version = "0.1.0"
+authors = ["Adam Wall <agcwall@gmail.com>"]
